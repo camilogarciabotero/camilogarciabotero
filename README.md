@@ -1,13 +1,15 @@
 <p align="center">
  <h2 align="center">Hello there, I'm Camilo</h2>
- <p align="center"> This is my README profile. Hope you get through my repos and find something useful, here some stats:</p>
-  <p align="center">
+ <p align="center"> This is my README profile. Hope you get through my repos and find something useful. To see more about me<a href="https://camilogarciabotero.github.io" target="_blank">here</a></p>
+</p>
+
+<!--
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=camilogarciabotero&show_icons=true" />
 </a>
   </p>
-</p>
-
+-->
 
 <!--
 **camilogarciabotero/camilogarciabotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
